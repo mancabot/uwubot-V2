@@ -2,8 +2,8 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 
-SUBSCRIBE:ANKER PRODUCTION
-DI SITU ADA TUTORIAL JADI BOT
+Instagram:@thenay_xploit_
+Jangan Lupa Follow Kak
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
@@ -43,7 +43,7 @@ DI SITU ADA TUTORIAL JADI BOT
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *MEDIA DOWNLOADER* 」
 ┴
 │➻ *${prefix}tiktokstalk username*
-│➻ *${prefix}igstalk _farhan_xcode7*
+│➻ *${prefix}igstalk thenay_xploit_*
 │➻ *${prefix}instavid link valid*
 │➻ *${prefix}instaimg link valid*
 │➻ *${prefix}instastory username*
@@ -64,20 +64,20 @@ DI SITU ADA TUTORIAL JADI BOT
 ┴
 │➻ *${prefix}quotemaker tx/wtrmk/tema*
 │➻ *${prefix}nulis nama/kelas/text*
-│➻ *${prefix}croman FXC7 dan BOT*
-│➻ *${prefix}slide Fxc7 BOT WA*
+│➻ *${prefix}croman Nurul dan FxSx*
+│➻ *${prefix}slide MANCA BOT WA*
 │
-│➻ *${prefix}tahta FXC7*
-│➻ *${prefix}cglass FXC7*
-│➻ *${prefix}cstyle FXC7*
-│➻ *${prefix}cgame FXC7*
-│➻ *${prefix}clove FXC7*
-│➻ *${prefix}cparty FXC7*
-│➻ *${prefix}csky FXC7*
+│➻ *${prefix}tahta NURUL*
+│➻ *${prefix}cglass NURUL*
+│➻ *${prefix}cstyle NURUL*
+│➻ *${prefix}cgame NURUL*
+│➻ *${prefix}clove NURUL*
+│➻ *${prefix}cparty NURUL*
+│➻ *${prefix}csky NURUL*
 │➻ *${prefix}tts id Haii*
-│➻ *${prefix}ttp Fxc7*
-│➻ *${prefix}cballon Fxc7*
-│➻ *${prefix}cpaper Fxc7*
+│➻ *${prefix}ttp NURUL*
+│➻ *${prefix}cballon NURUL*
+│➻ *${prefix}cpaper NURUL*
 │
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
@@ -181,14 +181,14 @@ DI SITU ADA TUTORIAL JADI BOT
 ┴
 │➻ *${prefix}jarak Banyuwangi/Surabaya*
 │➻ *${prefix}translate en/Apa kabar?*
-│➻ *${prefix}pasangan Farhan/Iriene*
-│➻ *${prefix}gantengcek Farhan*
-│➻ *${prefix}cantikcek Iriene*
-│➻ *${prefix}artinama Farhan*
-│➻ *${prefix}persengay Topan*
-│➻ *${prefix}pbucin Farhan*
-│➻ *${prefix}bpfont Farhan*
-│➻ *${prefix}textstyle FXC7*
+│➻ *${prefix}pasangan Nurul/FxSx*
+│➻ *${prefix}gantengcek Nurul*
+│➻ *${prefix}cantikcek Nurul*
+│➻ *${prefix}artinama Nurul*
+│➻ *${prefix}persengay Fadli*
+│➻ *${prefix}pbucin Nurul*
+│➻ *${prefix}bpfont Nurul*
+│➻ *${prefix}textstyle Nurul*
 │➻ *${prefix}jadwaltv antv*
 │➻ *${prefix}lirik melukis senja*
 │➻ *${prefix}chord Melukis senja*
@@ -307,13 +307,13 @@ DI SITU ADA TUTORIAL JADI BOT
 
 ╭─────「 *SUPPORT ${name}* 」
 ┴
-│➲ *O BOT*
-│➲ *M. HADI FIRMANSYA*
-│➲ *DELIA AULIA*
-│➲ *KEVIN DAVID*
-│➲ *MY TEAM FXC7 BOT*
+│➲ *NurulCans*
+│➲ *Manca-Bot*
+│➲ *Fadli*
+│➲ *Fadli-Bot*
+│➲ *FxSx*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
-│➲ *FXC7*
+│➲ *NurulCans*
 ┬
 ╰────────────────────────`
 }
@@ -336,8 +336,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
+│√ *PULSA: 083815956151*
+│√ *OVO : 083815956151*
 ┬
 ╰──────「 *BY ${name}* 」
 
